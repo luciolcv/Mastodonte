@@ -1,4 +1,4 @@
-# Mastodonte
+# Mastodonte 🐘
 
 ![Mastodonte](mastodonte.jpeg)
 
