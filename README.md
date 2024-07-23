@@ -1,6 +1,7 @@
 # Mastodonte 🐘
 
-![Mastodonte](mastodonte.jpeg)
+<img src="mastodonte.jpeg" alt="Mastodonte" width="250"/>
+
 
 **Mastodonte** is a Python toolkit for working with Mastodon data.
 It leverages the [Official Mastodon APIs](https://docs.joinmastodon.org/) to provide an easy-to-use set of Python methods for getting Mastodon data.
