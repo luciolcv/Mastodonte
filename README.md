@@ -18,7 +18,7 @@ Mastodonte is a work-in-progress toolkit, that currently supports the following 
 *Timelines*
 - [x]   Get the (local) timeline of a given instance
 - [X]   Get the (local) timelines of a list of instances (parallel execution!)
-- [x]   Include the list of users that reposted a given post
+- [x]   Include the list of users that reposted a given post while crawling the timelines
 - [x]   Resume from a previous crawling
 - [x]   Easy export to JSON files
 
