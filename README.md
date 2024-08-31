@@ -3,14 +3,14 @@
 <img src="mastodonte.jpeg" alt="Mastodonte" width="250"/>
 
 
-**Mastodonte** is a Python toolkit for working with [Mastodon](https://joinmastodon.org/) data.
+**Mastodonte** is an under-development Python toolkit for working with [Mastodon](https://joinmastodon.org/) data.
 It leverages the [Official Mastodon APIs](https://docs.joinmastodon.org/) to provide an easy-to-use set of Python methods for getting Mastodon data.
 
 Mastodonte only relies on the *publicly accessible* endpoints from Mastodon and does not require any authentication for accessing public data.
 
 Mastodonte is a work-in-progress toolkit, that currently supports the following operations:
 
-*Instances*
+*Instances* (almost ready!)
 - [ ] Get all information and metadata for a given instance
 - [ ] Get the list of moderated servers from a given instance
 - [ ] Get the list of rules of a given instance
@@ -23,7 +23,13 @@ Mastodonte is a work-in-progress toolkit, that currently supports the following 
 - [x]   Easy export to JSON files
 
 *Users*
-- [ ]  (Almost ready) Get the social network of a given user 
+- [X]  Get the social network of a given user 
+
+---
+
+### How to use?
+
+**Come back soon for a tutorial on how to use Mastodon!**
 
 ---
 
